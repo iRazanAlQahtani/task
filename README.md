@@ -15,6 +15,8 @@ Few steps to follow if you want to control the power of Arduino led.
 
 4 - After that go back to arduino ide and upload the code. A web page will open, choose from it if you either want to power off or power on your arduino board lamp.
 
+![IMG-1180](https://user-images.githubusercontent.com/78439826/183296055-87939906-786b-4529-8eff-ff3752cf67ba.jpg)
 
 Finally you can see that the led is opened/closed according to your choice on the web page.
+![IMG-1181](https://user-images.githubusercontent.com/78439826/183296183-80f6219e-7939-41c9-905a-d0ab0e093919.jpg)
 
